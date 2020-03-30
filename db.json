@@ -1,14 +1,15 @@
 {
-    "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
+    "paychecks": [
+        { "id": 1, "name": "Recibo de sueldo", "fecha": "2018-09-14", "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf" },
+        { "id": 2, "name": "Recibo de sueldo", "fecha": "2018-09-14", "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf" },
+        { "id": 3, "name": "Recibo de sueldo", "fecha": "2018-09-14", "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf" },
+        { "id": 3, "name": "Recibo de sueldo", "fecha": "2018-09-14", "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf" }
     ],
     "comments": [
         { "id": 1, "body": "some comment", "postId": 1 },
         { "id": 2, "body": "some comment", "postId": 1 }
     ],
     "profile": {
-        "name": "typicode"
+        "name": "Paycheck Viewer"
     }
 }
