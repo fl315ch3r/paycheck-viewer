@@ -1,1 +1,33 @@
-// http://fl315ch3r.github.io/prueba/paychecksample.pdf
+{
+    "isError": 0,
+    "data": {
+        "success": true,
+        "object": [{
+            "id": 3,
+            "name": "Recibo de sueldo",
+            "fecha": "2018-09-14",
+            "employeeId": "",
+            "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf"
+        }, {
+            "id": 3,
+            "name": "Recibo de sueldo",
+            "fecha": "2018-09-14",
+            "employeeId": "",
+            "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf"
+        }, {
+            "id": 3,
+            "name": "Recibo de sueldo",
+            "fecha": "2018-09-14",
+            "employeeId": "",
+            "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf"
+        }, {
+            "id": 3,
+            "name": "Recibo de sueldo",
+            "fecha": "2018-09-14",
+            "employeeId": "",
+            "url": "http://fl315ch3r.github.io/prueba/paychecksample.pdf"
+        }]
+    },
+    "nextaction": "",
+    "serverdatetime": "2018-09-14 21:23:12"
+}
